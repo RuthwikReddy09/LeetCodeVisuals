@@ -1,0 +1,29 @@
+
+.navbar{
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);   
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    position:sticky; 
+    top: 0;
+}
+.navbar-container{
+    width: 100%;
+    margin: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navlinks{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.navlink{
+    text-decoration: none;
+    color: white;
+}
