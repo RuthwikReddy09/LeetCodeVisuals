@@ -6,7 +6,7 @@ const Sidebar = () => {
     <div className='sidebar'>
         <div className="sidebar-container">
         <div className="sidebar-heading">
-            <h4>Problems</h4>
+            <h4 className='sidebar-heading'>Problems</h4>
         </div>
         <div className="sidebar-problems">
             <Link to="Two Sum" className="sidebar-problem">1. Two Sum</Link>
@@ -15,6 +15,14 @@ const Sidebar = () => {
             <Link  to="Two Sum" className="sidebar-problem">4.</Link>
             <Link  to="Two Sum" className="sidebar-problem">4.</Link>
             <Link to="Two Sum"  className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
+            <Link  to="Two Sum" className="sidebar-problem">4.</Link>
             <Link  to="Two Sum" className="sidebar-problem">4.</Link>
             <Link  to="Two Sum" className="sidebar-problem">4.</Link>
             <Link  to="Two Sum" className="sidebar-problem">4.</Link>

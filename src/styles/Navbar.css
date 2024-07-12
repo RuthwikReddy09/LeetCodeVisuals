@@ -1,15 +1,17 @@
 
 .navbar{
-    -webkit-backdrop-filter: blur(8px);
-    backdrop-filter: blur(8px);   
+    /* -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);   */
+    background-color: rgb(47,49,54); 
     width: 100%;
-    height: 50px;
+    height: 55px;
     border-bottom: 1px solid white;
     display: flex;
     justify-content: center;
     align-items: center;   
     position:sticky; 
     top: 0;
+
 }
 .navbar-container{
     width: 100%;
@@ -26,4 +28,8 @@
 .navlink{
     text-decoration: none;
     color: white;
+}
+.navlogo{
+    font-size: larger;
+
 }
